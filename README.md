@@ -4,4 +4,4 @@
 
 
 
-![etcha](https://github.com/er1ck02/cars/blob/master/etcha.png)
+![etcha](https://github.com/er1ck02/EtchaScetch/blob/master/etcha.png)
