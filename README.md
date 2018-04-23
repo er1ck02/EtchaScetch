@@ -3,5 +3,3 @@
 
 
 
-
-![EtchaSketch](https://github.com/er1ck02/EtchaScetch/blob/master/etcha.png)
